@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.search{
+   display: flex;
+   justify-content: center;
+   width: 90vw;
+   padding: 10px;
+}
